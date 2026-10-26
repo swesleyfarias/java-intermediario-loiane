@@ -19,11 +19,11 @@ The course covers Enumerations, Java language elements, Multithreading, Strings 
 
 ### More Basic Java Language Elements 
   - [x] Wrapper Classes
-  - [ ] Autoboxing and Unboxing
-  - [ ] Static Import
-  - [ ] Variable Scope
-  - [ ] Parameter Passing
-  - [ ] Varargs
+  - [x] Autoboxing and Unboxing
+  - [x] Static Import
+  - [x] Variable Scope
+  - [x] Parameter Passing
+  - [x] Varargs
   - [ ] printf
   - [ ] Nested Classes
   - [ ] Annotations
